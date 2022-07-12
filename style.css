@@ -1,0 +1,33 @@
+.mb-3{
+    margin: 20px;  
+    text-align: justify;  
+    color: black;
+  }
+ 
+  button{
+      border-radius: 6px;
+      border: solid 2px white;
+  }
+  img{
+      background-size: cover;
+  }
+  form{border: solid 2px red;
+      border-radius: 10px;
+      margin-top: 5em;
+      margin-left: 30%;
+  margin-right: 40%;
+  padding-bottom: 10px;
+     
+  }
+  
+  
+  
+  .btn {
+  margin-left: 25px;
+  }
+ input{
+    border-radius: 10px;
+ }
+ .check{
+    color: green;
+ }
